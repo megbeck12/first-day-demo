@@ -1,3 +1,9 @@
+.container {
+    background-color: black;
+    height: 75px;
+    margin: 0;
+}
+
 .lesson  {
     background-color: lemonchiffon;
   }
@@ -8,6 +14,17 @@
 
 .image {
     border-radius: 50px;
+}
+
+.section-two {
+    color: orange;
+    background-color: blue;
+    width: 300px;
+    height: 125px;
+}
+
+.section-four {
+    color: white;
 }
   
 #email {
@@ -23,4 +40,15 @@
 #portfolio {
       color: white;
       background-color: darkslateblue;
+}
+
+#section-one {
+    color: yellow;
+    background-color: purple;
+    width: 300px;
+    height: 125px;
+}
+
+#section-six {
+    color: yellow;
 }
